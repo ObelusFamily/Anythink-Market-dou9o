@@ -17,3 +17,4 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 3. Navigate to the project root directory and run "docker-compose up" to build the relevant containers
 4. Check the backend - http://localhost:3000/api/ping
 5. Check the frontend - http://localhost:3001/register and register a new user
+6. Document and create PR tagging '@vanessa-cooper'
